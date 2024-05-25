@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently learning **Docker,Python, ML, I have a lot of upcoming projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VLAD1760](https://github.com/VLAD1760)
-
 - 📫 How to reach me **Vlad760@proton.me**
 
-- ⚡ Fun fact **I enjoy working and learning new things, So I am always working, It's my hobbie and passion🤓**
+- ⚡ Fun fact **I enjoy learning new things about Programming and Ethical Hacking all the time, So I am always working/Studying on new projects, It's my hobby and passion🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
