@@ -4,9 +4,9 @@
 <h3 align="center">A passionate Fullstack Developer from Mexico</h3>
 <img align="right" alt="Vlad760" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo1cG5uZmNpeW5tdGM1Zzl1ZzVvZGRsZzJpczBybWZzem00MWJmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V2cIOPUrgdT00LKriw/giphy.gif">
 
-- 🔭 I’m currently working on [Chat_AI_Project](https://github.com/VLAD1760/Chat_AI_Project)
+- 🔭 I’m currently working on becoming a Frontend Web Developer 
 
-- 🌱 I’m currently learning **Docker,Python, ML, I have a lot of upcoming projects.**
+- 🌱 I’m currently learning with OracleONE 
 
 - 📫 How to reach me **Vlad760@proton.me**
 
