@@ -1,4 +1,3 @@
-![MasterHead](https://i.pinimg.com/originals/9b/43/3e/9b433ec12c1b3dc9dc526e0001f39478.png)
 
 <h1 align="center">Hi <img align="center" alt="Haunter" width="70" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlzMHFwYzN6MGo5aDVjeDZqaHI0aTIxMWNmZzZhNWoxbTEzeDN2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/199O7RofcxKnbIqdbC/giphy.gif">, I'm Jhovani Baltazar</h1>
 <h3 align="center">A passionate Developer from Mexico</h3>
